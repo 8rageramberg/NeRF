@@ -1,0 +1,7 @@
+torch>=2.0
+torchvision>=0.15
+pytorch3d>=0.7
+numpy>=1.23
+matplotlib>=3.6
+tqdm>=4.64
+imageio>=2.27
